@@ -13,7 +13,7 @@ Endpoints disponíveis:
 - DELETE /api/Ocorrencias/{id}
 
 Link do repositório GitHub:
-http://ApiOcorrencia.somee.com
+https://github.com/Melltiy/ProjetoFinal_API.git
 
 DS - ProjetoFinal_API
 #DS - ProjetoFinal_api
